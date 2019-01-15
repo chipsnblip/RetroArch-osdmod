@@ -4501,7 +4501,7 @@ MSG_HASH(
     )
 MSG_HASH(
     MSG_PAUSED,
-    "Paused."
+    "Testing 1.. 2.. 3... (Hello world)"
     )
 MSG_HASH(
     MSG_PROGRAM,
